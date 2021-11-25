@@ -8,7 +8,6 @@ Hj = '\x1b[1;92m'
 Mt = '\x1b[0m' 
 ingfo = (
 """%s
- • Info script :
  	
  - author      : Vigo Safar Ambara
  - facebook    : facebook.com/vigo.ambara
