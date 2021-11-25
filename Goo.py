@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-# coding=utf-8
+# Jamal
 # recode by : Vigo Safar Ambara
 # Note : jangan di ubah lagi! nanti error, script udah enak
 # Open source code team | ngotak dikit cok jangan jual di perjual belikan 
